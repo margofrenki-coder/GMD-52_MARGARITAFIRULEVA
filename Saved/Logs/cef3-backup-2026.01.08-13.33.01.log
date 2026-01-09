@@ -1,0 +1,12 @@
+[11772:20104:0108/154742.434:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11772:12416:0108/154742.486:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11772:20104:0108/154742.497:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11932:11968:0108/154747.803:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9FA5534FE87A4DB0D746558499C602CB will be ignored
+[11772:16316:0108/154748.398:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11772:20104:0108/154748.495:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,5]
+[11772:20104:0108/154748.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,5]
+[11772:20104:0108/154748.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,5]
+[11772:20104:0108/154748.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,5]
+[11772:16316:0108/154748.627:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,5]
+[11824:11776:0108/155001.438:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-26F18E3DC1A0398DA78267CD4D9F5A42 will be ignored
+[11772:20104:0108/163301.898:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
