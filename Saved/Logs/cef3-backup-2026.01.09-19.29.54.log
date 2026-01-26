@@ -1,7 +1,0 @@
-[6924:21052:0109/131020.827:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6924:3212:0109/131020.874:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6924:21052:0109/131020.888:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18592:18508:0109/151428.767:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
-[6924:21052:0109/185651.947:ERROR:device_event_log_impl.cc(196)] [18:56:51.719] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[6924:21052:0109/185651.947:ERROR:device_event_log_impl.cc(196)] [18:56:51.734] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Дополнительные данные отсутствуют. (0x103)
-[6924:21052:0109/222954.051:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
